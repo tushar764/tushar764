@@ -3,7 +3,7 @@
 
 <p align="center">
   💻 I craft end-to-end web applications using the latest technologies. <br/>
-  ✉️ <strong>Email Me:</strong> <a href="mailto:saintushar148@gmail.com">saintushar148@gmail.com</a> for Collaboration, Projects, or just to say Hi! 😊<br/>
+  ✉️ <strong>Email Me:</strong> <a href="saintushar148@gmail.com">saintushar148@gmail.com</a> for Collaboration, Projects, or just to say Hi! 😊<br/>
 </p>
 
 ---
