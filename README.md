@@ -3,7 +3,7 @@
 
 <p align="center">
   💻 I craft end-to-end web applications using the latest technologies. <br/>
-  ✉️ <strong>Email Me:</strong> <a href="saintushar148@gmail.com">saintushar148@gmail.com</a> for Collaboration, Projects, or just to say Hi! 😊<br/>
+  ✉️ <strong>Email Me:</strong> <a href="mailto:saintushar148@gmail.com">saintushar148@gmail.com</a> for Collaboration, Projects, or just to say Hi! 😊<br/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/tushar-sain14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="saintushar148@gmail.com">
+  <a href="mailto:saintushar148@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -51,6 +51,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -91,7 +92,3 @@
 
 > I 💖 Tech — and Tech 💖 Me back!  
 > Always building, always learning. 🔧🚀
-
----
-
-
