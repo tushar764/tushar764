@@ -51,15 +51,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 🐍 Snake Contribution Animation
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
